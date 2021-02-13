@@ -76,9 +76,9 @@ p {
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-/*   background-color: #11233E; */
-/*   background-image: -webkit-linear-gradient(30deg, white 50%, blue 50%); */
-/*   background-blend-mode: luminosity; */
+  background-color: #11233E;
+  background-image: -webkit-linear-gradient(30deg, white 50%, blue 50%);
+  background-blend-mode: luminosity;
 
 }
 
